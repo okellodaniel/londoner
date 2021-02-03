@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-image:linear-gradient(bottom to top right,rgba(255,255,255,0.3),rgba(255,255,255,0.7));
+}
+.form{
+    margin:20px 50px;
+    padding:20px;
+    background-color:whitesmoke;
+
+}
